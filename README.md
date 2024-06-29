@@ -1,4 +1,4 @@
-<code>
+'''
 class Explorer:
     def __init__(self, name, role, languages_spoken, learning, fun_fact):
         self.name = name
@@ -23,7 +23,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-<code/>
+'''
 
 <!--
 **Sastahariharan567/Sastahariharan567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
