@@ -8,13 +8,13 @@ class Explorer:
         self.fun_fact = fun_fact
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Hi Nice to See you.")
 
 def main():
     me = Explorer(
         name="Sasta Hari Haran R",
         role="SDE and FullStack Developer",
-        languages_spoken=["hn_In", "en_US"],
+        languages_spoken=["hn_In", "en_US","ta_IN"],
         learning="Data Structres and Algorithms",
         fun_fact="An AI a day keeps the developer away"
     )
