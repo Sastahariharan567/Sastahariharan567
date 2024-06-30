@@ -24,5 +24,5 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
+![python](https://img.shields.io/badge/Language-python-informational?style=flat&logo=python&logoColor=white&color=a3265d)
 
